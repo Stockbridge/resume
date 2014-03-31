@@ -1,4 +1,4 @@
 Responsive Resume
 =================
 
-Responsive Resume - Fluid Layout, CSS3, HTML5, Print Style Sheet, (ie9+)
+Responsive Resume (ie9+) - Fluid Layout, CSS3, HTML5, Print Style Sheet
