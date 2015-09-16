@@ -1,5 +1,5 @@
 
-/* line 254 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 257 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 
 /* line 1 : /usr/local/lib/node_modules/stylus/lib/functions/index.styl */
 
@@ -74,50 +74,52 @@ header h2{color:#000}
 /* line 155 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .knowledge section,.employment,.nonJob{margin-top:20px}
 /* line 159 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
-.job,.achievement{margin:20px 0;width:100%}
+.job,.achievement{margin:18px 0;width:100%}
 /* line 163 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .job h1,.achievement h1{font-size:1.7em;color:#18567e}
 /* line 167 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .job p{margin:.7rem 0}
-/* line 171 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 170 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .date{float:right;font-size:.9em;font-weight:normal;margin-top:1px;color:#777}
-/* line 178 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
-.info{display:inline-block;width:100%;font-size:1.6em;margin-bottom:5px;vertical-align:top}
-/* line 185 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 177 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+.info{display:inline-block;width:100%;font-size:1.5em;margin-bottom:5px;vertical-align:top}
+/* line 184 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .info li{display:inline-block}
-/* line 188 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 187 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .info p{font-size:1em}
-/* line 191 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 190 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .site{color:#777;float:right}
-/* line 195 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 194 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .college li{line-height:1.4em;width:100%}
-/* line 200 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 199 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 
-/* line 201 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 200 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 @media all and (max-width: 355px){
-/* line 203 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 202 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .body{margin-left:15px}
-/* line 206 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 205 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .logo{height:65px}
-/* line 209 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 208 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .phone{width:auto;border-bottom:none}
-/* line 213 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
-.contact{width:100%}}
-/* line 218 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 212 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+.contact{width:100%}
+/* line 216 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+.employment,.nonJob{margin-top:25px}}
+/* line 221 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 @media all and (min-width: 750px){
-/* line 220 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 223 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 body{max-width:1024px;margin:3px auto}
-/* line 224 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 227 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .knowledge section{width:46%;margin:0 2%}
-/* line 228 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 231 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .employment,.nonJob{display:inline-block;width:46%;margin:0 2%;vertical-align:top}}
-/* line 236 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 239 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 @media print{
-/* line 238 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
-body{font-size:7.5px}
 /* line 241 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
-header{height:75px}
+body{font-size:7.5px}
 /* line 244 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+header{height:75px}
+/* line 247 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .knowledge section{width:46%;margin:0 2%}
-/* line 248 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
+/* line 251 : /Users/stocky/Clients/Stocky/resume/stylus/resume.styl */
 .employment,.nonJob{display:inline-block;width:46%;margin:15px 2%;vertical-align:top}}
