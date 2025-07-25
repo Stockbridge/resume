@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let text: string;
+	export let text: string;
 </script>
 
-<h2 class="text-xl font-bold border-b border-blue-300 mb-4">{text}</h2>
+<h2 class="mb-4 border-b border-blue-300 text-xl font-bold">{text}</h2>
