@@ -1,4 +1,5 @@
 <script lang="ts">
+  import SectionHeader from '$lib/SectionHeader.svelte';
   export let experience: Array<{
     role: string;
     company: string;
@@ -8,7 +9,7 @@
 </script>
 
 <section class="mb-8">
-  <h2 class="text-xl font-bold text-blue-900 border-b border-blue-200 pb-1 mb-3 tracking-wide uppercase">Experience</h2>
+  <SectionHeader text="Experience" />
   {#each experience as job}
     <div class="mb-6">
       <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center">
