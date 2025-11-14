@@ -14,17 +14,58 @@
 
 	const education = [
 		{
-			degree: 'B.A. Interactive Arts and Media',
+			degree: 'BA: Interactive Arts & Media',
 			school: 'Columbia College Chicago',
-			dates: '2007 – 2011',
-			description:
-				'I studied Interactive Media with a focus on the presentation layer of complex applications and interactive prototyping. Web Technologies'
+			dates: 'Sep 2007 - May 2011',
+			description: 'Focus: UI/UX, Web, Human Computer Interaction'
 		}
 	];
 
 	const skills = [
-		['Svelte, TypeScript, JavaScript, React', 'Node.js, Express, REST APIs'],
-		['CI/CD, Docker, AWS', 'Agile, TDD, Mentorship']
+		{
+			title: 'Core Technologies',
+			items: [
+				'TypeScript/JavaScript',
+				'HTML5/Semantic Markup',
+				'CSS3/Modern CSS',
+				'Node.js',
+				'React',
+				'Next.js'
+			]
+		},
+		{
+			title: 'Frameworks & Tools',
+			items: [
+				'Tailwind/CSS-in-JS',
+				'Storybook/Pattern Libraries',
+				'Jest/Mocha/Cypress',
+				'Webpack/Vite',
+				'Claude/Amazon Q',
+				'Docker/ECS'
+			]
+		},
+		{
+			title: 'Specializations',
+			items: [
+				'Design Systems',
+				'Accessibility (a11y)',
+				'Performance Optimization',
+				'Responsive Design',
+				'SEO Best Practices',
+				'Automated Delivery'
+			]
+		},
+		{
+			title: 'Architecture & Methods',
+			items: [
+				'Modular Components',
+				'Clear API Boundaries',
+				'Quality and Standards',
+				'Cloud Services (AWS)',
+				'Experimentation',
+				'CI/CD Test and Delivery'
+			]
+		}
 	];
 
 	const projects = [
@@ -32,13 +73,17 @@
 			title: 'IMDb Pattern Library',
 			dates: 'Feb 2017 - Present',
 			context: 'IMDb Project',
-			bullets: ['Work with a team to define visual patterns and support code reuse and consolidation.']
+			bullets: [
+				'Work with a team to define visual patterns and support code reuse and consolidation.'
+			]
 		},
 		{
 			title: 'Celtra Deprication',
 			dates: 'Aug 2016 - Oct 2016',
 			context: 'IMDb Project',
-			bullets: ['Built a module to manage and deliver date checked assets for several ad types across the IMDb site and mobile application.']
+			bullets: [
+				'Built a module to manage and deliver date checked assets for several ad types across the IMDb site and mobile application.'
+			]
 		},
 		{
 			title: 'GIG2.0',
@@ -52,13 +97,17 @@
 			title: 'Tiered Search',
 			dates: 'Aug 2014 - Oct 2014',
 			context: 'Grainger Project',
-			bullets: ["Built, maintained and prototyped the front end for Grainger's cross category general search page functionality."]
+			bullets: [
+				"Built, maintained and prototyped the front end for Grainger's cross category general search page functionality."
+			]
 		},
 		{
 			title: 'Typeahead Search',
 			dates: 'May 2014 - Aug 2014',
 			context: 'Grainger Project',
-			bullets: ["Built, maintained and versioned the front end for Grainger's main search bar and the typeaheads interior functionality."]
+			bullets: [
+				"Built, maintained and versioned the front end for Grainger's main search bar and the typeaheads interior functionality."
+			]
 		},
 		{
 			title: 'Grainger Visual Update',
@@ -72,199 +121,126 @@
 
 	const employment = [
 		{
-			company: 'IMDb.com',
-			dates: 'Jun 2016 - Present',
-			title: 'Sr. Front End Engineer',
+			company: 'IMDb (Amazon Subsidiary)',
+			dates: 'June 2016 - Present',
+			title: 'Sr. Front End Engineer / Design Technologist',
 			location: 'Seattle, WA',
 			skills: [
 				'TypeScript',
+				'Next.js',
 				'React',
-				'CSS3',
+				'Node.js',
+				'Modern Frontend Architecture',
+				'Pattern Libraries (MUI, Atomic Design)',
+				'Responsive Development',
+				'Modern CSS (Grid, Flex, Container Queries)',
+				'Semantic HTML5',
 				'Accessibility',
-				'TailwindCSS',
-				'Styled Components',
-				'HTML5',
-				'Semantic Markup',
-				'Pattern Library Creation and Management',
-				'Internationalization',
-				'Material UI',
-				'Material Design Guidelines',
-				'Agile methodologies',
-				'Webpack',
-				'Legacy System Management (Grunt/Gulp/jQuery)',
-				'Automated Build Processes',
-				'Graceful Degradation',
-				'Progressive Enhancement',
-				'Git',
-				'Jest',
-				'Mocha',
-				'Chai',
-				'Cucumber',
-				'Cypress',
-				'Performance and Latency Auditing',
-				'Testing',
-				'CI/CD'
+				'CSS-in-JS',
+				'Tailwind',
+				'Storybook',
+				'Unit Testing (Jest, Mocha)',
+				'Integration Testing (Cypress, Puppeteer, Cucumber)',
+				'Build Tools (Webpack, Vite)',
+				'SEO Optimization',
+				'Performance Optimization',
+				'Cloud Services (AWS Lambda, Fargate)',
+				'GraphQL',
+				'Docker',
+				'CI/CD',
+				'Mentoring',
+				'Technical Leadership',
+				'Ruby',
+				'Java',
+				'Python'
 			]
 		},
 		{
 			company: 'Groupon',
-			dates: 'Apr 2015 - Jun 2016',
-			title: 'UX Developer II',
+			dates: 'Apr 2015 - June 2016',
+			title: 'UX Engineer',
 			location: 'Seattle, WA',
 			skills: [
-				'Agile Methodologies',
-				'JavaScript',
-				'CSS3',
+				'CSS3 (Sass, Stylus)',
 				'HTML5',
-				'Gulp',
-				'Chrome Extensions',
-				'Prototype Generation',
-				'Stylus',
-				'Git',
+				'JavaScript',
+				'CoffeeScript',
+				'Pattern Library',
+				'Unit Testing (Mocha, Jasmine)',
+				'Responsive Development',
 				'Semantic Markup',
-				'Interaction Layer Development',
-				'jQuery',
-				'Unit Testing',
+				'Accessibility',
+				'Git',
+				'Agile',
+				'Node Build Tooling (Gulp, Webpack)',
+				'Template Generation (Handlebars, Hogan)',
+				'Atomic Design',
 				'Integration Testing',
-				'Styles as a Service',
-				'Mocha',
-				'Internationalization',
-				'Localization',
-				'Communication',
-				'Debugging',
-				'Computer Science',
-				'Web Technologies'
+				'SPAs'
 			]
 		},
 		{
 			company: 'Grainger',
-			dates: 'Apr 2014 - Apr 2015',
+			dates: 'Apr 2014 - April 2015',
 			title: 'Front End Developer',
 			location: 'Chicago, IL',
 			skills: [
-				'Scrum Methodology',
-				'LESS',
-				'Handlebars',
-				'CSS3',
+				'CSS3 (Less, Sass)',
 				'HTML5',
-				'jQuery',
 				'JavaScript',
-				'Grunt',
-				'Gulp',
-				'Prototype Generation',
-				'Stylus',
-				'Git',
 				'Semantic Markup',
-				'Search Functionality',
-				'Graceful Degradation',
-				'Localization',
-				'Communication',
-				'Debugging',
-				'Computer Science',
-				'Web Technologies'
+				'Accessibility',
+				'Git',
+				'Agile',
+				'Handlebars',
+				'Prototyping',
+				'Build Tooling (Gulp/Grunt)',
+				'State management',
+				'Unit Testing',
+				'CI/CD Pipeline',
+				'Prototyping'
 			]
 		},
 		{
-			company: 'Kaplan University / Qualified',
-			dates: 'Aug 2013 - Apr 2014',
+			company: 'Kaplan Inc.',
+			dates: 'Sep 2013 - Apr 2014',
 			title: 'UX Developer',
 			location: 'Chicago, IL',
 			skills: [
-				'Scrum Methodology',
-				'Stylus',
-				'SASS',
-				'CSS3',
+				'CSS3 (Stylus, Sass)',
 				'HTML5',
 				'Ember.js',
-				'Node.js',
 				'JavaScript',
-				'jQuery',
-				'Prototype Generation',
-				'Web Applications Development',
-				'Presentation Layer Development',
-				'Semantic Markup',
+				'Responsive Development',
 				'Git',
-				'Documentation'
+				'Agile',
+				'Handlebars',
+				'SMACSS',
+				'Node',
+				'SPA',
+				'Prototyping'
 			]
 		},
 		{
-			company: 'Sears Holdings Corporation',
-			dates: 'Apr 2013 - Jul 2013',
+			company: 'Sears Holdings',
+			dates: 'Apr 2013 - Aug 2013',
 			title: 'UX Developer',
 			location: 'Chicago, IL',
-			skills: [
-				'CSS3',
-				'HTML5',
-				'JavaScript',
-				'jQuery',
-				'Responsive Development',
-				'Prototype Generation',
-				'Prototype Design',
-				'Design Patterns',
-				'UI/UX Development',
-				'Object Oriented Programming',
-				'Git',
-				'SVN',
-				'Documentation',
-				'PHP',
-				'Wordpress',
-				'jQuery UI',
-				'jQuery Mobile',
-				'Axure RP',
-				'Mobile Point of Sale'
-			]
+			skills: ['CSS3', 'HTML5', 'jQuery', 'JavaScript', 'Responsive Development', 'Prototyping']
 		},
 		{
-			company: 'Career Education Corporation',
-			dates: 'May 2012 - Apr 2013',
+			company: 'Perdoceo Education Corporation',
+			dates: 'Jun 2012 - May 2013',
 			title: 'UI/UX Developer',
 			location: 'Schaumburg, IL',
-			skills: [
-				'UI/UX',
-				'CSS',
-				'HTML',
-				'JavaScript',
-				'jQuery',
-				'Web Design',
-				'Icon Design',
-				'Prototyping',
-				'Branding',
-				'User Flows',
-				'Wire Framing',
-				'Styling Microsoft Controls',
-				'Theming Telerik Controls',
-				'SafeSource',
-				'Graceful Degradation',
-				'Axure RP'
-			]
+			skills: ['CSS3', 'HTML5', 'jQuery', 'JavaScript', 'Responsive Development', 'Prototyping']
 		},
 		{
 			company: 'AlphaMetrix, LLC',
-			dates: 'Jan 2009 - Apr 2012',
+			dates: 'Jan 2009 - May 2012',
 			title: 'Graphic Designer',
 			location: 'Chicago, IL',
-			skills: [
-				'HTML',
-				'CSS',
-				'Print/Web Design',
-				'Print/Web Layout',
-				'Designing Presentations',
-				'Slicing',
-				'Photoshop',
-				'Illustrator',
-				'Marketing Emails',
-				'Wordpress',
-				'Wordpress Themes',
-				'Content Management',
-				'eTouches',
-				'Sharepoint Event Signage',
-				'Image Generation',
-				'Theming Telerik Controls',
-				'Small Team Management',
-				'Communication',
-				'Debugging',
-				'Web Technologies'
-			]
+			skills: ['CSS3', 'HTML5', 'jQuery', 'ASP.net', 'Email development']
 		}
 	];
 </script>
