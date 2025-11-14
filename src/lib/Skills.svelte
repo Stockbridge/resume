@@ -1,15 +1,17 @@
 <script lang="ts">
 	import SectionHeader from '$lib/SectionHeader.svelte';
-	export let skills: string[][];
+	export let skills: { title: string; items: string[] }[];
 </script>
 
-<section class="mb-6">
-	<SectionHeader text="Skills" />
-	<ul class="flex">
-		{#each skills as skillRow}
-			{#each skillRow as skill}
-				<li>{skill}</li>
+{#each skills as skill}
+	<section class="mb-6">
+		<SectionHeader text={skill.title} />
+		<ul class="flex">
+			{#each skill.items as skillRow}
+				{#each skillRow as skill}
+					<li>{skill}</li>
+				{/each}
 			{/each}
-		{/each}
-	</ul>
-</section>
+		</ul>
+	</section>
+{/each}
