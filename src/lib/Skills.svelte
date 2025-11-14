@@ -3,15 +3,15 @@
 	export let skills: { title: string; items: string[] }[];
 </script>
 
-{#each skills as skill}
-	<section class="mb-6">
-		<SectionHeader text={skill.title} />
-		<ul class="flex">
-			{#each skill.items as skillRow}
-				{#each skillRow as skill}
-					<li>{skill}</li>
+<div class="mb-6 flex flex-col gap-6 sm:flex-row sm:flex-wrap">
+	{#each skills as skill}
+		<section class="mb-2 flex shrink-0 flex-grow flex-col sm:w-1/3">
+			<SectionHeader text={skill.title} />
+			<ul class="">
+				{#each skill.items as item}
+					<li>{item}</li>
 				{/each}
-			{/each}
-		</ul>
-	</section>
-{/each}
+			</ul>
+		</section>
+	{/each}
+</div>
