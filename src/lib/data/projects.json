@@ -1,0 +1,50 @@
+[
+  {
+    "title": "IMDb Consumer Site Modernization",
+    "dates": "Jan 2013 - Present",
+    "context": "IMDb Project",
+    "bullets": [
+      "Led the architectural transformation of IMDb's legacy Java monolith into a modern, responsive platform. Engineered shared design patterns enabling seamless migration of 100+ unique page types to a fully accessible, SEO-optimized stack (IMDbNext). Implemented comprehensive solutions for diverse product requirements across the platform."
+    ]
+  },
+  {
+    "title": "IMDbNext",
+    "dates": "Jan 2014 - Present",
+    "context": "IMDb Platform",
+    "bullets": [
+      "Architected and deployed one of the internet's largest Next.js implementations, serving 399k+ page views per minute. Established robust CI/CD pipeline supporting 60+ engineers with 4+ daily deployments. Optimized performance and scalability across the platform."
+    ]
+  },
+  {
+    "title": "PLAID Pattern Library",
+    "dates": "Jan 2013 - Present",
+    "context": "IMDb Library",
+    "bullets": [
+      "Spearheaded development of IMDb's Pattern Library for Atomic Interface Design (PLAID). Led cross-functional collaboration with design and engineering teams to establish comprehensive design system standards and implementation guidelines."
+    ]
+  },
+  {
+    "title": "GIG2.0",
+    "dates": "Nov 2015 - Jan 2016",
+    "context": "Groupon Project",
+    "bullets": [
+      "Architected and implemented a unified pattern library powering Groupon's consumer-facing platforms. Established core design system foundations across multiple business verticals to ensure consistent user experience."
+    ]
+  },
+  {
+    "title": "Grainger Visual Update",
+    "dates": "May 2014 - Sep 2014",
+    "context": "Grainger Project",
+    "bullets": [
+      "Spearheaded the visual modernization initiative for Grainger's digital platform. Streamlined and standardized design patterns across the browse experience."
+    ]
+  },
+  {
+    "title": "Qualified Pattern Lab",
+    "dates": "Jan 2014 - Mar 2014",
+    "context": "Kaplan University",
+    "bullets": [
+      "Created the Pattern Library and display patterns for the Qualified application."
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "company": "IMDb (Amazon Subsidiary)",
+    "dates": "June 2016 - Present",
+    "title": "Sr. Front End Engineer / Design Technologist",
+    "location": "Seattle, WA",
+    "skills": [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "Node.js",
+      "Modern Frontend Architecture",
+      "Pattern Libraries (MUI, Atomic Design)",
+      "Responsive Development",
+      "Modern CSS (Grid, Flex, Container Queries)",
+      "Semantic HTML5",
+      "Accessibility",
+      "CSS-in-JS",
+      "Tailwind",
+      "Storybook",
+      "Unit Testing (Jest, Mocha)",
+      "Integration Testing (Cypress, Puppeteer, Cucumber)",
+      "Build Tools (Webpack, Vite)",
+      "SEO Optimization",
+      "Performance Optimization",
+      "Cloud Services (AWS Lambda, Fargate)",
+      "GraphQL",
+      "Docker",
+      "CI/CD",
+      "Mentoring",
+      "Technical Leadership",
+      "Ruby",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "company": "Groupon",
+    "dates": "Apr 2015 - June 2016",
+    "title": "UX Engineer",
+    "location": "Seattle, WA",
+    "skills": [
+      "CSS3 (Sass, Stylus)",
+      "HTML5",
+      "JavaScript",
+      "CoffeeScript",
+      "Pattern Library",
+      "Unit Testing (Mocha, Jasmine)",
+      "Responsive Development",
+      "Semantic Markup",
+      "Accessibility",
+      "Git",
+      "Agile",
+      "Node Build Tooling (Gulp, Webpack)",
+      "Template Generation (Handlebars, Hogan)",
+      "Atomic Design",
+      "Integration Testing",
+      "SPAs"
+    ]
+  },
+  {
+    "company": "Grainger",
+    "dates": "Apr 2014 - April 2015",
+    "title": "Front End Developer",
+    "location": "Chicago, IL",
+    "skills": [
+      "CSS3 (Less, Sass)",
+      "HTML5",
+      "JavaScript",
+      "Semantic Markup",
+      "Accessibility",
+      "Git",
+      "Agile",
+      "Handlebars",
+      "Prototyping",
+      "Build Tooling (Gulp/Grunt)",
+      "State management",
+      "Unit Testing",
+      "CI/CD Pipeline",
+      "Prototyping"
+    ]
+  },
+  {
+    "company": "Kaplan Inc.",
+    "dates": "Sep 2013 - Apr 2014",
+    "title": "UX Developer",
+    "location": "Chicago, IL",
+    "skills": [
+      "CSS3 (Stylus, Sass)",
+      "HTML5",
+      "Ember.js",
+      "JavaScript",
+      "Responsive Development",
+      "Git",
+      "Agile",
+      "Handlebars",
+      "SMACSS",
+      "Node",
+      "SPA",
+      "Prototyping"
+    ]
+  },
+  {
+    "company": "Sears Holdings",
+    "dates": "Apr 2013 - Aug 2013",
+    "title": "UX Developer",
+    "location": "Chicago, IL",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "jQuery",
+      "JavaScript",
+      "Responsive Development",
+      "Prototyping"
+    ]
+  },
+  {
+    "company": "Perdoceo Education Corporation",
+    "dates": "Jun 2012 - May 2013",
+    "title": "UI/UX Developer",
+    "location": "Schaumburg, IL",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "jQuery",
+      "JavaScript",
+      "Responsive Development",
+      "Prototyping"
+    ]
+  },
+  {
+    "company": "AlphaMetrix, LLC",
+    "dates": "Jan 2009 - May 2012",
+    "title": "Graphic Designer",
+    "location": "Chicago, IL",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "jQuery",
+      "ASP.net",
+      "Email development"
+    ]
+  }
+]

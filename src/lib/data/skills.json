@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Core Technologies",
+    "items": [
+      "TypeScript/JavaScript",
+      "HTML5/Semantic Markup",
+      "CSS3/Modern CSS",
+      "Node.js",
+      "React",
+      "Next.js"
+    ]
+  },
+  {
+    "title": "Frameworks & Tools",
+    "items": [
+      "Tailwind/CSS-in-JS",
+      "Storybook/Pattern Libraries",
+      "Jest/Mocha/Cypress",
+      "Webpack/Vite",
+      "Claude/Amazon Q",
+      "Docker/ECS"
+    ]
+  },
+  {
+    "title": "Specializations",
+    "items": [
+      "Design Systems",
+      "Accessibility (a11y)",
+      "Performance Optimization",
+      "Responsive Design",
+      "SEO Best Practices",
+      "Automated Delivery"
+    ]
+  },
+  {
+    "title": "Architecture & Methods",
+    "items": [
+      "Modular Components",
+      "Clear API Boundaries",
+      "Quality and Standards",
+      "Cloud Services (AWS)",
+      "Experimentation",
+      "CI/CD Test and Delivery"
+    ]
+  }
+]
