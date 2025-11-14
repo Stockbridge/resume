@@ -10,7 +10,7 @@
 </script>
 
 <section class="mb-8">
-	<SectionHeader text="educationcation" />
+	<SectionHeader text="Education" />
 	<div class="mb-4">
 		<ItemHeader
 			title={education.degree}
