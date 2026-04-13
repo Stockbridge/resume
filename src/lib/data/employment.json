@@ -1,7 +1,38 @@
 [
   {
+    "company": "ITpipes",
+    "dates": "Feb 2026 - Present",
+    "title": "Principal Front End Engineer",
+    "location": "Seattle, WA",
+    "skills": [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "Node.js",
+      "Modern Frontend Architecture",
+      "Pattern Libraries (Mantine, Atomic Design)",
+      "Responsive Development",
+      "Modern CSS (Grid, Flex)",
+      "Semantic HTML5",
+      "Accessibility",
+      "CSS-in-JS",
+      "Tailwind",
+      "Unit Testing (Vite)",
+      "Integration Testing (Playwright)",
+      "Build Tools (Vite)",
+      "SEO Optimization",
+      "Infrastructure as Code (Terraform)",
+      "Cloud Services (AWS Lambda, Fargate)",
+      "Docker",
+      "CI/CD",
+      "Mentoring",
+      "Technical Leadership",
+      "ASP.Net"
+    ]
+  },
+  {
     "company": "IMDb (Amazon Subsidiary)",
-    "dates": "June 2016 - Present",
+    "dates": "June 2016 - Jan 2026",
     "title": "Sr. Front End Engineer / Design Technologist",
     "location": "Seattle, WA",
     "skills": [
@@ -23,6 +54,7 @@
       "Build Tools (Webpack, Vite)",
       "SEO Optimization",
       "Performance Optimization",
+      "Infrastructure as Code (CDK)",
       "Cloud Services (AWS Lambda, Fargate)",
       "GraphQL",
       "Docker",
